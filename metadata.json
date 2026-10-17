@@ -1,0 +1,8 @@
+{
+  "name": "SpectraLab Pro - Universal Spectral & XRD Analysis Platform",
+  "description": "High-resolution scientific instrument data platform supporting UXD, FTIR, Raman, UV-Vis-NIR, and ESR spectra with automated baseline correction, deconvolution peak fitting, FWHM, and batch profiling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
